@@ -1,2 +1,6 @@
-First line added
-Second line added
+2. Uncommented below lins in 'xamp/php/php.ini' file To fix Xampp error: Call to undefined function pg_connect() 
+extension=pgsql
+extension=pdo_pgsql
+
+3. git remote add origin webaddress here (need to run first time only)
+git push origin master
